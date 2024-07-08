@@ -1,0 +1,34 @@
+* 
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button
+{
+    width: 120px;
+    height: 50px;
+    background: rgb(210, 40, 10);
+    color: rgb(13, 13, 14);
+    border-radius: 18px;
+    outline: none;
+    margin: 50px;
+}
+
+#mostrando
+{
+    padding: 12px;
+    font-size: 2.1rem;
+    min-width: 90px;
+    border-radius: 5px;
+}
