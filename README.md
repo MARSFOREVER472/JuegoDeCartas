@@ -4,4 +4,4 @@
 
 ### **_Cómo crear un GENERADOR DE CARTAS ALEATORIAS en Javascript._**
 
-Cómo crear un juego de cartas sencillo con Javascript!
+_Cómo crear un juego de cartas sencillo con Javascript!_
