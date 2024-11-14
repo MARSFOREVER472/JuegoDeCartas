@@ -1,4 +1,4 @@
-# JuegoDeCartas
+# _JuegoDeCartas_
 
 ## **_CREANDO UN JUEGO DE CARTAS EN JAVASCRIPT!_**
 
