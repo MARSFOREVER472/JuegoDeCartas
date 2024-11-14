@@ -8,6 +8,6 @@ function displayCard()
     let singleCard = cards[Math.floor(Math.random() * cards.length)];
     let singleNumber = numbers[Math.floor(Math.random() * numbers.length)];
     let showCard = `${singleNumber}   ${singleCard}`;
-    document.getElementById("mostrando").style.background = '#0accff';
+    document.getElementById("mostrando").style.background = '#ff0000';
     document.getElementById("mostrando").innerHTML = showCard;
 }
