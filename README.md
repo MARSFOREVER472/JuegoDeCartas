@@ -1,6 +1,6 @@
 # **_JuegoDeCartas_**
 
-## **_Creando un juego de Cartas usando Javascript!_**
+## **_Creando un juego de Cartas utilizando Javascript!_**
 
 ### **_Cómo crear un Generador de Cartas Aleatorias utilizando Javascript:_**
 
