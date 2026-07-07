@@ -6,7 +6,7 @@
 
 - **_Cómo crear un juego de cartas sencillo con Javascript!_**
   
-- **_Crea un generador de cartas al azar utilizando Javascript!_**
+- **_Crea un generador de cartas aleatorias utilizando Javascript!_**
   
 - **_Si estás interesado en aprender a programar Javascript, con este proyecto vas a tener una gran oportunidad de aprender diversos temas relacionados con JavaScript que son tremendamente importantes, como por ejemplo, la manipulación del DOM, la creación de elementos o números aleatorios, a cómo acceder a un ```index``` de cualquier ```Array```, acerca de cómo crear una función en Javascript, a cómo usar las plantillas ```string```'s + interpolación en Javascript, aprende a usar los métodos matemáticos (```floor``` & ```random```(Ya que estas variables forman parte de la función ```Math``` de Javascript)), entre otros!_**
   
