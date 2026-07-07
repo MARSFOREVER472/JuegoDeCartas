@@ -4,7 +4,7 @@
 
 ### **_Cómo crear un Generador de Cartas Aleatorias utilizando Javascript:_**
 
-- **_Cómo crear un juego de cartas sencillo con Javascript!_**
+- **_Cómo crear un juego de cartas sencillo utilizando Javascript!_**
   
 - **_Crea un generador de cartas aleatorias utilizando Javascript!_**
   
