@@ -1,15 +1,15 @@
 # **_JuegoDeCartas_**
 
-## **_Creando un juego de Cartas utilizando Javascript!_**
+## **_Creando un juego sencillo de Cartas utilizando Javascript!_**
 
 ### **_Cómo crear un Generador de Cartas Aleatorias utilizando Javascript:_**
 
-- **_Cómo crear un juego de cartas sencillo con Javascript!_**
+- **_Cómo crear un juego de cartas sencillo utilizando Javascript!_**
   
-- **_Crea un generador de cartas al azar utilizando Javascript!_**
+- **_Crea un generador de cartas aleatorias utilizando Javascript!_**
   
-- **_Si estás interesado en aprender a programar Javascript, con este proyecto vas a tener una gran oportunidad de aprender diversos temas relacionados con JavaScript que son tremendamente importantes, como por ejemplo, la manipulación del DOM, la creación de elementos o números aleatorios, a cómo acceder a un ```index``` de cualquier ```Array```, acerca de cómo crear un función en Javascript, a cómo usar las plantillas ```string```'s + interpolación en Javascript, aprende a usar los métodos matemáticos (```floor``` & ```random```(Ya que estas variables forman parte de la función ```Math``` de Javascript)), entre otros!_**
+- **_Si estás interesado en aprender a programar Javascript, con este proyecto vas a tener una gran oportunidad de aprender diversos temas relacionados con dicho JavaScript que son tremendamente importantes, como por ejemplo, la manipulación del ```DOM```, la creación de elementos y/o números aleatorios, a cómo acceder a un ```index``` de cualquier ```Array```, acerca de cómo crear una función en Javascript, a cómo usar las plantillas ```string```'s + interpolación en Javascript, aprende a usar los métodos matemáticos (```floor``` & ```random```(Ya que estas variables forman parte de la función ```Math``` de Javascript)), entre otros!_**
   
-- **_¿Quieres aprender a crear un juego de cartas utilizando Javascript? En este proyecto queremos proponerte un desafío en donde tenemos que crear, desde 0, un juego de cartas sencillo que sea capaz de generar varias ```cartas``` al azar, mostrando dichas cartas al usuario al hacer click en cualquier botón!_**
+- **_En este proyecto queremos proponerte un desafío en donde tenemos que crear, desde 0, un juego de cartas sencillo que sea capaz de generar varias ```cartas``` al azar, mostrando dichas cartas al usuario al hacer click en cualquier botón!_**
   
 - **_Es decir, en este juego, cada vez que el usuario hace click en cualquier botón, se crea una nueva carta aleatoria. Utilizaremos todos los números y todos los palos de cartas que se usan en una baraja clásica._**
