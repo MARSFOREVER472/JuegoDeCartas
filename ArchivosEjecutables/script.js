@@ -1,6 +1,6 @@
 // VAMOS A DECLARAR LAS VARIABLES PARA LA SIMBOLOGÍA DE LAS CARTAS...
 
-let cards = ['♥', '♠', '♦️', '♣']; // SE DEFINEN LOS PALOS DE CARTAS MEDIANTE UN ARREGLO.
+let cards = ['♥️', '♠️', '♦️', '♣️']; // SE DEFINEN LOS PALOS DE CARTAS MEDIANTE UN ARREGLO.
 let numbers = ['A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K']; // SE DEFINEN LOS NÚMEROS DE CARTAS MEDIANTE UN ARREGLO.
 
 function displayCard()
