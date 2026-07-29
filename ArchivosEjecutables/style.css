@@ -18,7 +18,7 @@ button
 {
     width: 120px;
     height: 50px;
-    background: rgb(210, 40, 10);
+    background-image: linear-gradient(darkred, orange);
     color: rgb(13, 13, 14);
     border-radius: 18px;
     outline: none;
